@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ea2ce6ec-45f1-4c5b-bdd8-472a2be19ddf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mypackage/collection/NavigableSetApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mypackage/collection/NavigableSetApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DequeApp">
+  <component name="RunManager" selected="Application.WeakHashMapApp">
     <configuration name="DequeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mypackage.collection.DequeApp" />
       <module name="belajar-java-collection" />
@@ -49,8 +48,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mypackage.collection.ImmutableSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.ImmutableSetApp" />
+    <configuration name="HashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.HashMapApp" />
+      <module name="belajar-java-collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypackage.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeakHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.WeakHashMapApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -88,26 +100,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mypackage.collection.SortedSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.SortedSetApp" />
-      <module name="belajar-java-collection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mypackage.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WeakHashMapApp" />
+        <item itemvalue="Application.HashMapApp" />
         <item itemvalue="Application.DequeApp" />
         <item itemvalue="Application.mypackage.collection.QueueApp" />
         <item itemvalue="Application.mypackage.collection.NavigableSetApp" />
-        <item itemvalue="Application.mypackage.collection.SortedSetApp" />
-        <item itemvalue="Application.mypackage.collection.ImmutableSetApp" />
       </list>
     </recent_temporary>
   </component>
