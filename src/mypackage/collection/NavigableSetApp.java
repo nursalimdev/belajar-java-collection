@@ -1,4 +1,5 @@
 package mypackage.collection;
+import java.util.Collections;
 import java.util.NavigableSet;
 import java.util.Set;
 import java.util.TreeSet;
@@ -23,6 +24,10 @@ public class NavigableSetApp {
         for (var a : farizi){
             System.out.println(a);
         }
+
+        // immutable navigableset
+        NavigableSet<String> immutable = Collections.unmodifiableNavigableSet(names);
+        immutable.add("Halah");
 
 
 

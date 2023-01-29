@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ea2ce6ec-45f1-4c5b-bdd8-472a2be19ddf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mypackage/collection/NavigableSetApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mypackage/collection/NavigableSetApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +35,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NavigableSetApp">
-    <configuration name="EnumSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.EnumSetApp" />
+  <component name="RunManager" selected="Application.DequeApp">
+    <configuration name="DequeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.DequeApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -48,7 +49,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImmutableSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="mypackage.collection.ImmutableSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mypackage.collection.ImmutableSetApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
@@ -61,7 +62,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NavigableSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="mypackage.collection.NavigableSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mypackage.collection.NavigableSetApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
@@ -74,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.SetApp" />
+    <configuration name="mypackage.collection.QueueApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.QueueApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -87,7 +88,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="mypackage.collection.SortedSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mypackage.collection.SortedSetApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
@@ -102,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NavigableSetApp" />
-        <item itemvalue="Application.SortedSetApp" />
-        <item itemvalue="Application.ImmutableSetApp" />
-        <item itemvalue="Application.EnumSetApp" />
-        <item itemvalue="Application.SetApp" />
+        <item itemvalue="Application.DequeApp" />
+        <item itemvalue="Application.mypackage.collection.QueueApp" />
+        <item itemvalue="Application.mypackage.collection.NavigableSetApp" />
+        <item itemvalue="Application.mypackage.collection.SortedSetApp" />
+        <item itemvalue="Application.mypackage.collection.ImmutableSetApp" />
       </list>
     </recent_temporary>
   </component>
