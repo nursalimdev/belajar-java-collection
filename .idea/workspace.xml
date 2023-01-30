@@ -34,9 +34,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NavigableMapApp">
-    <configuration name="EnumHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.EnumHashMapApp" />
+  <component name="RunManager" selected="Application.SingleQueueApp">
+    <configuration name="BinarySearchApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.BinarySearchApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -48,8 +48,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImmutableMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.ImmutableMapApp" />
+    <configuration name="CollectionsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.CollectionsApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.LinkedHashMapApp" />
+    <configuration name="SingleQueueApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.SingleQueueApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NavigableMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.NavigableMapApp" />
+    <configuration name="mypackage.collection.SortingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.SortingApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.SortedMapApp" />
+    <configuration name="mypackage.collection.StackApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.StackApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NavigableMapApp" />
-        <item itemvalue="Application.SortedMapApp" />
-        <item itemvalue="Application.ImmutableMapApp" />
-        <item itemvalue="Application.EnumHashMapApp" />
-        <item itemvalue="Application.LinkedHashMapApp" />
+        <item itemvalue="Application.SingleQueueApp" />
+        <item itemvalue="Application.CollectionsApp" />
+        <item itemvalue="Application.BinarySearchApp" />
+        <item itemvalue="Application.mypackage.collection.SortingApp" />
+        <item itemvalue="Application.mypackage.collection.StackApp" />
       </list>
     </recent_temporary>
   </component>
