@@ -34,9 +34,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.WeakHashMapApp">
-    <configuration name="DequeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.DequeApp" />
+  <component name="RunManager" selected="Application.ImmutableMapApp">
+    <configuration name="EnumHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.EnumHashMapApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -48,8 +48,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.HashMapApp" />
+    <configuration name="IdentityHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.IdentityHashMapApp" />
+      <module name="belajar-java-collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypackage.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImmutableMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.ImmutableMapApp" />
+      <module name="belajar-java-collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypackage.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedHashMapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.LinkedHashMapApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -74,39 +100,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mypackage.collection.NavigableSetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.NavigableSetApp" />
-      <module name="belajar-java-collection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mypackage.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mypackage.collection.QueueApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.QueueApp" />
-      <module name="belajar-java-collection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mypackage.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImmutableMapApp" />
+        <item itemvalue="Application.EnumHashMapApp" />
+        <item itemvalue="Application.LinkedHashMapApp" />
+        <item itemvalue="Application.IdentityHashMapApp" />
         <item itemvalue="Application.WeakHashMapApp" />
-        <item itemvalue="Application.HashMapApp" />
-        <item itemvalue="Application.DequeApp" />
-        <item itemvalue="Application.mypackage.collection.QueueApp" />
-        <item itemvalue="Application.mypackage.collection.NavigableSetApp" />
       </list>
     </recent_temporary>
   </component>
