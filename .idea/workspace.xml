@@ -34,9 +34,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SingleQueueApp">
-    <configuration name="BinarySearchApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.BinarySearchApp" />
+  <component name="RunManager" selected="Application.ArrayApp">
+    <configuration name="ArrayApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.ArrayApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -48,8 +48,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.CollectionsApp" />
+    <configuration name="CollectionDefaultMethodApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.CollectionDefaultMethodApp" />
+      <module name="belajar-java-collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mypackage.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapDefaultMethodApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.MapDefaultMethodApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -74,21 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mypackage.collection.SortingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.SortingApp" />
-      <module name="belajar-java-collection" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mypackage.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mypackage.collection.StackApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mypackage.collection.StackApp" />
+    <configuration name="SplitIteratorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mypackage.collection.SplitIteratorApp" />
       <module name="belajar-java-collection" />
       <extension name="coverage">
         <pattern>
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayApp" />
+        <item itemvalue="Application.SplitIteratorApp" />
+        <item itemvalue="Application.MapDefaultMethodApp" />
+        <item itemvalue="Application.CollectionDefaultMethodApp" />
         <item itemvalue="Application.SingleQueueApp" />
-        <item itemvalue="Application.CollectionsApp" />
-        <item itemvalue="Application.BinarySearchApp" />
-        <item itemvalue="Application.mypackage.collection.SortingApp" />
-        <item itemvalue="Application.mypackage.collection.StackApp" />
       </list>
     </recent_temporary>
   </component>
